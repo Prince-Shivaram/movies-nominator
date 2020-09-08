@@ -4,11 +4,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and hosted on GitHub Pages.
 
-- Used OMDB API for searching movies and displaing the results.
+- Used OMDB API for searching movies and displaying the results.
 - User can nominate a movie from the search results to our nomination list.
 - User can view the list of movies nominated in the nomination list.
 - User can add/remove a nominee from the nomination list.
-- User can nominate upto 5 movie names.
+- User can nominate upto 5 movies.
 - A pop-up will be displayed if the user exceeds 5 nominations.
 - If a search result has already been nominated, nomination button will be disabled.
 - User can share the nominations link on their social media handles. 
